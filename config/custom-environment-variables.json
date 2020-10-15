@@ -1,0 +1,7 @@
+{
+    "mail": {
+        "password": "todo_mail_password"
+    },
+    "jwtPrivateKey": "todo_jwtPrivateKey",
+    "db": "todo_db"
+}

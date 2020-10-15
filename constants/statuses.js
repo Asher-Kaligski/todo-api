@@ -1,0 +1,9 @@
+module.exports.New = 'New';
+module.exports.Business_Requirement = 'Business Requirement';
+module.exports.In_Development = 'In Development';
+module.exports.Fixed = 'Fixed';
+module.exports.Staging_QA = 'Staging QA';
+module.exports.Ready_For_Deploy = 'Ready For Deploy';
+module.exports.Production_QA = 'Production QA';
+module.exports.Closed = 'Closed';
+module.exports.Rejected = 'Rejected';

@@ -1,0 +1,6 @@
+{
+    "name": "Todo API",
+    "jwtPrivateKey": "",
+    "db": "mongodb://localhost/todo-board"
+    
+}

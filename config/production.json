@@ -1,0 +1,6 @@
+{
+    "name": "Todo API - Production",
+    "mail": {
+        "host": "production-mail-server"
+    }
+}
