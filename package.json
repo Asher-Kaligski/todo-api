@@ -4,7 +4,7 @@
   "description": "",
   "main": "sever.js",
   "scripts": {
-    "start": "export NODE_ENV=development DEBUG=app:* todo_mail_password=123 todo_jwtPrivateKey=1234 && node server.js",
+    "start": "export NODE_ENV=production todo_mail_password=123 todo_jwtPrivateKey=1234 && node server.js",
     "devStartWindows": "set DEBUG=app:* todo_mail_password=123 todo_jwtPrivateKey=1234 && nodemon server.js",
     "devStartLinux": "export NODE_ENV=development DEBUG=app:* todo_mail_password=123 todo_jwtPrivateKey=1234 && nodemon server.js"
   },
